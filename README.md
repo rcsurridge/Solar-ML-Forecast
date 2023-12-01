@@ -1,4 +1,4 @@
-# SolarMLForecast
+# Predictive Modeling of Solar Energy Generation using Machine Learning
 
 **CMSC 35300 Final Project by Jimmy Kernan, Robert McCormick, and Robert Surridge**
 
